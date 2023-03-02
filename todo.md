@@ -1,5 +1,4 @@
 ## TODO
-- Add previous sequence predictor
-- Upstream stats synapses one or few epoch
+- Add previous sequence predictor.
 - Clustering synthetic symbols
 - Online training
