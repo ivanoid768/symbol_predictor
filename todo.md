@@ -4,6 +4,7 @@
 - Index predictor with only one prev symbol
 - Clustering synthetic symbols
 - Context clusters buffer
+- Norm context cluster mask
 - Online training
 ## Long text
 - Test transition freedom on long text
