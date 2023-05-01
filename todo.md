@@ -13,6 +13,7 @@
 - Buffer N upstream patterns
 - Get most frequent substrings via N-size window
 - Divide via peaks
+- Theme divider via distribution - list of distr per each symbol, than compare this distrs
 ## Medium text batch
 - Multilayer. Condition to create new layer.
 - Specialization of modules. Condition to create new module.
