@@ -1,6 +1,6 @@
 data/**
 temp_text.py
-temp_text_puh.py
+temp_text_puh*
 __pycache__/**
 __pycache__
 .vscode
